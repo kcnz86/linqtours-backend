@@ -1,0 +1,9 @@
+{
+    "tours": [
+      { "id": 1, "name": "European Explorer", "price": "$2000" },
+      { "id": 2, "name": "Caribbean Cruise", "price": "$2500" }
+    ],
+    "userItineraries": [],
+    "orders": []
+  }
+    
